@@ -1,5 +1,5 @@
 {
-  "name": "jojo2a2/replacer",
+  "name": "chladek/replacer",
   "type": "library",
   "description": "Convert arabic numbers to roman numerals",
   "keywords": ["RomanNumerals"],
