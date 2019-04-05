@@ -1,0 +1,26 @@
+{
+  "name": "jojo2a2/replacer",
+  "type": "library",
+  "description": "Convert arabic numbers to roman numerals",
+  "keywords": ["RomanNumerals"],
+  "homepage": "https://yourcompany.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jozef Chladek",
+      "email": "jozef.chladek@ringier.sk",
+      "homepage": "http://seld.be",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4",
+    "ext-pdo": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Converter\\": "/src"
+    }
+  }
+}
