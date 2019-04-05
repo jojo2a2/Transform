@@ -15,7 +15,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "chladek\\transformFromArabicToRomans\": "src/"
+      "chladek\\chladek/transformator\\": "src/"
     }
   }
 }
