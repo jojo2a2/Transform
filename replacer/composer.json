@@ -1,5 +1,5 @@
 {
-  "name": "chladek/transformFromArabicToRomans",
+  "name": "chladek/transformator",
   "description": "Review package",
   "type": "package",
   "require": {
